@@ -2,9 +2,8 @@ while True:
   userName = input ("Hi! What is your name? ")
   print ("Hi! " + userName)
   answer = input("Would you like to study? (◍＞◡＜◍) (y/n)  ") .lower()
-
   if answer == 'y':
-#simulating loading bar till added
+#simulating loading bar / will be added later <<never>> ᕕ( ಠ‿ಠ)ᕗ
     print ("PREPARING MATERIALS...")
     print ("Redirecting...")
     print ("...")
