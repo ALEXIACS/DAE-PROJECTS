@@ -88,4 +88,4 @@ while True:
   else:
   #If user is planning on having a cat then repeat loop
     print("Oh! ok so...")
-#redirect to line 4 ************** To complete ***************
+#redirect to line 4 ************** To complete **************
